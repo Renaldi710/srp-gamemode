@@ -1,0 +1,88 @@
+
+--------------------------
+SA-MP Server: 0.3.7-R2
+
+Exception At Address: 0x0040340E Module: (samp-server.exe)
+
+Registers:
+EAX: 0x00000010	EBX: 0x7FFFFFFF	ECX: 0x00000000	EDX: 0x6D657200
+ESI: 0x06E40BE8	EDI: 0x00000000	EBP: 0x047E4FF0	ESP: 0x0019FACC
+EFLAGS: 0x00010202
+
+Stack:
++0000: 0x030B7B08   0x006C7A80   0x0019FAFC   0x006C7A60
++0010: 0x73FF2229   0x047E4FF0   0x06E40BD8   0x00000000
++0020: 0x7FFFFFFF   0x006C7A80   0x06E40BD8   0x0000000F
++0030: 0x0019FB54   0x73FF27A5   0x030B7B08   0x0226EFF8
++0040: 0x006C7A80   0x006C7A60   0x00000000   0x00000050
++0050: 0x00000013   0x030B7B08   0x006C7C74   0x006C7C74
++0060: 0x0019FB7C   0x047E9860   0x030B7B08   0x0040650C
++0070: 0x0040650C   0x05E00CEC   0x00000000   0x006C7A80
++0080: 0x006C7A60   0x0019FB5C   0x0019FB7C   0x73FF1FFB
++0090: 0x030B7B08   0x0000FFFF   0x0226EFF8   0x00000359
++00A0: 0x00000359   0x00000001   0x001CD7B0   0x06E40BD0
++00B0: 0x0019FCB8   0x004010B6   0x030B7B08   0x06E40BBC
++00C0: 0x030B7B08   0x747088C6   0x030B7B08   0x00000013
++00D0: 0x0019FD34   0x06E40BBC   0x6EA412D2   0x048C235C
++00E0: 0x030B7B08   0x0226EFDC   0x030B7B08   0x00000000
++00F0: 0x0226F09C   0x0006C638   0x00000013   0x0019FBC0
++0100: 0x00000000   0x00000000   0x0019FBCC   0x0019FBD0
++0110: 0x76FB34FC   0x76FDE738   0x0019FBF8   0x00000000
++0120: 0x00000000   0x0226F02C   0x00DA7A64   0x10734F36
++0130: 0x000000BD   0x00000002   0x00000050   0x74692F24
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x00519000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\samp-server.exe)
+ntdll.dll	A: 0x76F40000 - 0x770E4000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x766E0000 - 0x767D0000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x759A0000 - 0x75BD9000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x75C50000 - 0x7622A000	(C:\Windows\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x75140000 - 0x751BB000	(C:\Windows\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x76CB0000 - 0x76DD0000	(C:\Windows\System32\ucrtbase.dll)
+USER32.dll	A: 0x76540000 - 0x766DC000	(C:\Windows\System32\USER32.dll)
+win32u.dll	A: 0x76810000 - 0x76828000	(C:\Windows\System32\win32u.dll)
+GDI32.dll	A: 0x76B50000 - 0x76B73000	(C:\Windows\System32\GDI32.dll)
+gdi32full.dll	A: 0x75820000 - 0x75906000	(C:\Windows\System32\gdi32full.dll)
+WINMM.dll	A: 0x71B40000 - 0x71B68000	(C:\Windows\SYSTEM32\WINMM.dll)
+msvcrt.dll	A: 0x75240000 - 0x752FF000	(C:\Windows\System32\msvcrt.dll)
+WSOCK32.dll	A: 0x74070000 - 0x74078000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+WS2_32.dll	A: 0x75BE0000 - 0x75C43000	(C:\Windows\System32\WS2_32.dll)
+RPCRT4.dll	A: 0x74EE0000 - 0x74F9C000	(C:\Windows\System32\RPCRT4.dll)
+IMM32.DLL	A: 0x76230000 - 0x76255000	(C:\Windows\System32\IMM32.DLL)
+MSVCP140.dll	A: 0x74690000 - 0x746FD000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+VCRUNTIME140.dll	A: 0x74670000 - 0x74685000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+mysql.DLL	A: 0x74620000 - 0x7466E000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\mysql.DLL)
+log-core.dll	A: 0x74600000 - 0x7461A000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\log-core.dll)
+libmariadb.dll	A: 0x74530000 - 0x745FD000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\libmariadb.dll)
+SHLWAPI.dll	A: 0x74E30000 - 0x74E79000	(C:\Windows\System32\SHLWAPI.dll)
+CRYPT32.dll	A: 0x74FA0000 - 0x7509F000	(C:\Windows\System32\CRYPT32.dll)
+ADVAPI32.dll	A: 0x750A0000 - 0x7511D000	(C:\Windows\System32\ADVAPI32.dll)
+sechost.dll	A: 0x751C0000 - 0x75237000	(C:\Windows\System32\sechost.dll)
+bcrypt.dll	A: 0x76B80000 - 0x76B99000	(C:\Windows\System32\bcrypt.dll)
+Secur32.dll	A: 0x73B80000 - 0x73B8A000	(C:\Windows\SYSTEM32\Secur32.dll)
+SSPICLI.DLL	A: 0x741F0000 - 0x74211000	(C:\Windows\SYSTEM32\SSPICLI.DLL)
+CRYPTBASE.DLL	A: 0x741E0000 - 0x741EA000	(C:\Windows\SYSTEM32\CRYPTBASE.DLL)
+kernel.appcore.dll	A: 0x742F0000 - 0x742FF000	(C:\Windows\SYSTEM32\kernel.appcore.dll)
+napinsp.dll	A: 0x72EA0000 - 0x72EB1000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x71930000 - 0x71946000	(C:\Windows\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x71910000 - 0x71926000	(C:\Windows\system32\wshbth.dll)
+NLAapi.dll	A: 0x718F0000 - 0x71906000	(C:\Windows\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x73280000 - 0x732B2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x73160000 - 0x731B2000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x730C0000 - 0x73150000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x74DB0000 - 0x74DB7000	(C:\Windows\System32\NSI.dll)
+winrnr.dll	A: 0x73570000 - 0x7357E000	(C:\Windows\System32\winrnr.dll)
+mdnsNSP.dll	A: 0x73090000 - 0x730B1000	(C:\Program Files (x86)\Bonjour\mdnsNSP.dll)
+rasadhlp.dll	A: 0x73080000 - 0x73088000	(C:\Windows\System32\rasadhlp.dll)
+sscanf.DLL	A: 0x10000000 - 0x1000E000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\sscanf.DLL)
+streamer.DLL	A: 0x74450000 - 0x744B7000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\streamer.DLL)
+pawncmd.DLL	A: 0x743C0000 - 0x7444E000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\pawncmd.DLL)
+MSVCP100.dll	A: 0x74230000 - 0x74299000	(C:\Windows\SYSTEM32\MSVCP100.dll)
+MSVCR100.dll	A: 0x71A80000 - 0x71B3F000	(C:\Windows\SYSTEM32\MSVCR100.dll)
+pawn-memory.DLL	A: 0x74220000 - 0x7422A000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\pawn-memory.DLL)
+timerfix.DLL	A: 0x73FF0000 - 0x73FF9000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\timerfix.DLL)
+nativechecker.DLL	A: 0x73FE0000 - 0x73FE5000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\nativechecker.DLL)
+samp_bcrypt.DLL	A: 0x71A30000 - 0x71A7A000	(C:\Users\ASUS AMD\Desktop\Vintage-Gamemode-Main\plugins\samp_bcrypt.DLL)
+bcryptPrimitives.dll	A: 0x74E80000 - 0x74EDF000	(C:\Windows\System32\bcryptPrimitives.dll)

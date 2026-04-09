@@ -1,0 +1,13 @@
+# Jangan push file hasil compile & settingan
+*.amx
+pawno/settings.xml
+
+# JANGAN PUSH FILE RAKSASA (Penyebab Error)
+scriptfiles/geoip_city.db
+scriptfiles/maxmind_city.db
+scriptfiles/SAfull.hmap
+
+# Log & data dinamis
+/logs/
+/scriptfiles/*.log
+/scriptfiles/*.txt
