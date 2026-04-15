@@ -44,7 +44,7 @@ function LoadATM()
 	cache_get_row_count(rows);
 	if(rows)
   	{
- 		new id, i = 0, str[55];
+ 		new id, i = 0;
 		while(i < rows)
 		{
 		    cache_get_value_name_int(i, "id", id);
@@ -114,7 +114,7 @@ CMD:createatm(playerid, params[])
 	AtmData[id][atmInt] = GetPlayerInterior(playerid);
 	AtmData[id][atmWorld] = GetPlayerVirtualWorld(playerid);
 	
-	new str[128];
+	//new str[128];
 	AtmData[id][atmObjID] = CreateDynamicObject(19324, AtmData[id][atmX], AtmData[id][atmY], AtmData[id][atmZ], AtmData[id][atmRX], AtmData[id][atmRY], AtmData[id][atmRZ], AtmData[id][atmWorld], AtmData[id][atmInt], -1, 10.0, 10.0);
 	AtmData[id][atmCP] = CreateDynamicCP(AtmData[id][atmX], AtmData[id][atmY]+1, AtmData[id][atmZ], 1.0, -1, -1, -1, 3.0);
 	//format(str, sizeof(str), "[ID: %d]\n"YELLOW_E"/ATM", id);

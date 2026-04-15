@@ -4,16 +4,10 @@
 #define TEXT_LANGUAGE	"Indonesia/English"
 
 
-#define		MYSQL_HOST 			"localhost"
+#define		MYSQL_HOST 			"127.0.0.1"
 #define		MYSQL_USER 			"root"
-#define		MYSQL_PASSWORD 		""
-#define		MYSQL_DATABASE 		"alvi2"
-
-/*
-#define		MYSQL_HOST 			"hosting.zxshop.store"
-#define		MYSQL_USER 			"u81_4tVZn1egsG"
-#define		MYSQL_PASSWORD 		"eUY^0Hi3y65NziZsF1=NDDr^"
-#define		MYSQL_DATABASE 		"s81_north"*/
+#define		MYSQL_PASSWORD 		"123"
+#define		MYSQL_DATABASE 		"srp-db"
 
 // how many seconds until it kicks the player for taking too long to login
 #define		SECONDS_TO_LOGIN 	200
