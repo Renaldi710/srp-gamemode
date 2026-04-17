@@ -7,42 +7,42 @@ SA-MP Dedicated Server
 ----------------------
 v0.3.7-R2, (C)2005-2015 SA-MP Team
 
-[23:43:33] 
-[23:43:33] Server Plugins
-[23:43:33] --------------
-[23:43:33]  Loading plugin: crashdetect
-[23:43:33]   CrashDetect plugin 4.22-1-gcd608b6
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: irc
-[23:43:33]   Failed.
-[23:43:33]  Loading plugin: mysql
-[23:43:33]  >> plugin.mysql: R41-4 successfully loaded.
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: sscanf
-[23:43:33] 
+[08:25:46] 
+[08:25:46] Server Plugins
+[08:25:46] --------------
+[08:25:46]  Loading plugin: crashdetect
+[08:25:46]   CrashDetect plugin 4.22-1-gcd608b6
+[08:25:46]   Loaded.
+[08:25:46]  Loading plugin: irc
+[08:25:46]   Failed.
+[08:25:46]  Loading plugin: mysql
+[08:25:46]  >> plugin.mysql: R41-4 successfully loaded.
+[08:25:46]   Loaded.
+[08:25:46]  Loading plugin: sscanf
+[08:25:46] 
 
-[23:43:33]  ===============================
+[08:25:46]  ===============================
 
-[23:43:33]       sscanf plugin loaded.     
+[08:25:46]       sscanf plugin loaded.     
 
-[23:43:33]          Version:  2.8.3        
+[08:25:46]          Version:  2.8.3        
 
-[23:43:33]   (c) 2018 Alex "Y_Less" Cole  
+[08:25:46]   (c) 2018 Alex "Y_Less" Cole  
 
-[23:43:33]  ===============================
+[08:25:46]  ===============================
 
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: streamer
-[23:43:33] 
+[08:25:46]   Loaded.
+[08:25:46]  Loading plugin: streamer
+[08:25:46] 
 
 *** Streamer Plugin v2.9.6 by Incognito loaded ***
 
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: CTime
-[23:43:33]   Failed.
-[23:43:33]  Loading plugin: pawncmd
-[23:43:33] [Pawn.CMD] plugin v3.4.0 loading...
-[23:43:33] [Pawn.CMD] 
+[08:25:46]   Loaded.
+[08:25:46]  Loading plugin: CTime
+[08:25:46]   Failed.
+[08:25:46]  Loading plugin: pawncmd
+[08:25:46] [Pawn.CMD] plugin v3.4.0 loading...
+[08:25:46] [Pawn.CMD] 
 
     | Pawn.CMD 3.4.0 | 2016 - 2023
     |--------------------------------
@@ -53,189 +53,434 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
     |--------------------------------------------------------------
     | Repository: https://github.com/katursis/Pawn.CMD
 
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: gvar
-[23:43:33] 
+[08:25:46]   Loaded.
+[08:25:46]  Loading plugin: gvar
+[08:25:46] 
 
 *** GVar Plugin v1.3 by Incognito loaded ***
 
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: pawn-memory
-[23:43:33] ========================
-[23:43:33] = Memory access plugin =
-[23:43:33] =       Made by BigETI =
-[23:43:33] = Loaded!              =
-[23:43:33] ========================
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: nativechecker
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: samp_bcrypt
-[23:43:33] [SampBcrypt] [info]: Version: 0.3.2
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: chrono
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: textdraw-streamer
-[23:43:33] 
-[23:43:33]  =================================
-[23:43:33]  |                               |
-[23:43:33]  |    textdraw-streamer v2.0.3   |
-[23:43:33]  |            Loaded             |
-[23:43:33]  |                               |
-[23:43:33]  |  Coding:                      |
-[23:43:33]  |                               |
-[23:43:33]  |  Burak (Nexor)                |
-[23:43:33]  |                               |
-[23:43:33]  |  Compiled:                    |
-[23:43:33]  |                               |
-[23:43:33]  |  29.09.2023, 16:49:07         |
-[23:43:33]  |                               |
-[23:43:33]  |  Github:                      |
-[23:43:33]  |                               |
-[23:43:33]  |  github.com/nexquery          |
-[23:43:33]  |                               |
-[23:43:33]  |  Discord:                     |
-[23:43:33]  |                               |
-[23:43:33]  |  benburakya - Nexor#4730      |
-[23:43:33]  |                               |
-[23:43:33]  =================================
-[23:43:33] 
-[23:43:33]   Loaded.
-[23:43:33]  Loading plugin: mapandreas
-[23:43:33]   Loaded.
-[23:43:33]  Loaded 12 plugins.
+[08:25:46]   Loaded.
+[08:25:46]  Loading plugin: pawn-memory
+[08:25:47] ========================
+[08:25:47] = Memory access plugin =
+[08:25:47] =       Made by BigETI =
+[08:25:47] = Loaded!              =
+[08:25:47] ========================
+[08:25:47]   Loaded.
+[08:25:47]  Loading plugin: nativechecker
+[08:25:47]   Loaded.
+[08:25:47]  Loading plugin: samp_bcrypt
+[08:25:47] [SampBcrypt] [info]: Version: 0.3.2
+[08:25:47]   Loaded.
+[08:25:47]  Loading plugin: chrono
+[08:25:47]   Loaded.
+[08:25:47]  Loading plugin: textdraw-streamer
+[08:25:47] 
+[08:25:47]  =================================
+[08:25:47]  |                               |
+[08:25:47]  |    textdraw-streamer v2.0.3   |
+[08:25:47]  |            Loaded             |
+[08:25:47]  |                               |
+[08:25:47]  |  Coding:                      |
+[08:25:47]  |                               |
+[08:25:47]  |  Burak (Nexor)                |
+[08:25:47]  |                               |
+[08:25:47]  |  Compiled:                    |
+[08:25:47]  |                               |
+[08:25:47]  |  29.09.2023, 16:49:07         |
+[08:25:47]  |                               |
+[08:25:47]  |  Github:                      |
+[08:25:47]  |                               |
+[08:25:47]  |  github.com/nexquery          |
+[08:25:47]  |                               |
+[08:25:47]  |  Discord:                     |
+[08:25:47]  |                               |
+[08:25:47]  |  benburakya - Nexor#4730      |
+[08:25:47]  |                               |
+[08:25:47]  =================================
+[08:25:47] 
+[08:25:47]   Loaded.
+[08:25:47]  Loading plugin: mapandreas
+[08:25:47]   Loaded.
+[08:25:47]  Loaded 12 plugins.
 
-[23:43:33] 
-[23:43:33] Ban list
-[23:43:33] --------
-[23:43:33]  Loaded: samp.ban
-[23:43:33] 
-[23:43:33] 
-[23:43:33] Filterscripts
-[23:43:33] ---------------
-[23:43:33]   Loading filterscript 'object.amx'...
-[23:43:33] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x296). The script might need to be recompiled with the latest include file.
-[23:43:33]   Loading filterscript 'Buttons.amx'...
-[23:43:33]   Loaded 2 filterscripts.
+[08:25:47] 
+[08:25:47] Ban list
+[08:25:47] --------
+[08:25:47]  Loaded: samp.ban
+[08:25:47] 
+[08:25:47] 
+[08:25:47] Filterscripts
+[08:25:47] ---------------
+[08:25:47]   Loading filterscript 'object.amx'...
+[08:25:47] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x296). The script might need to be recompiled with the latest include file.
+[08:25:47]   Loading filterscript 'Buttons.amx'...
+[08:25:47]   Loaded 2 filterscripts.
 
-[23:43:33]    Error: Function not registered: 'CreateDynamicTextDraw'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawFont'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawLetterSize'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawColour'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetShadow'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetOutline'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawBackgroundColour'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetProportional'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawUseBox'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawBoxColour'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawTextSize'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetSelectable'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetPreviewModel'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetPreviewRot'
-[23:43:33]    Error: Function not registered: 'DestroyDynamicTextDraw'
-[23:43:33]    Error: Function not registered: 'CreateDynamicPlayerTextDraw'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawFont'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawLetterSize'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawColour'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawSetShadow'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawSetOutline'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawBGColour'
-[23:43:33]    Error: Function not registered: 'DynPlayerTextSetProportional'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawUseBox'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawBoxColor'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawTextSize'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawAlignment'
-[23:43:33]    Error: Function not registered: 'DestroyDynamicPlayerTextDraw'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawShow'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawHideForPlayer'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawHide'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetPreviewVehCol'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawShowForPlayer'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawSetString'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawSetString'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawSelectable'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawSetPrevMdl'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawSetPrevRot'
-[23:43:33]    Error: Function not registered: 'DynamicPlayerTextDrawPrevVehCol'
-[23:43:33]    Error: Function not registered: 'DynamicTextDrawAlignment'
-[23:43:33]    Error: Function not registered: 'TimeFormat'
-[23:43:33]    Error: Function not registered: 'MapAndreas_FindZ_For2DCoord'
-[23:43:33]  
-[23:43:33]  
-[23:43:33]  
-[23:43:33]  ======================================= 
-[23:43:33]  |                                     | 
-[23:43:33]  |        YSI version 4.00.0001        | 
-[23:43:33]  |        By Alex "Y_Less" Cole        | 
-[23:43:33]  |                                     | 
-[23:43:33]  ======================================= 
-[23:43:33]  
-[23:43:33] [debug] Long callback execution detected (hang or performance issue)
-[23:43:33] [debug] AMX backtrace:
-[23:43:33] [debug] #0 0000b1f8 in AMX_GetEntry (E_AMX_TABLE:table=0, idx=352, &buffer=@04e79a2c 0, pattern[]=@00011f30 "@RETLoadMapping", bool:exact=true) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:460
-[23:43:33] [debug] #1 00036454 in Hooks_GetDefaultReturn (name[64]=@00011f30 "@RETLoadMapping") at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:748
-[23:43:33] [debug] #2 00036120 in Hooks_GenerateCode (name[64]=@00011f30 "@RETLoadMapping", hooks[]=@00012030 !"", count=6, write=-6131252, bool:hasprehooks=false) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:675
-[23:43:33] [debug] #3 000360d4 in Hooks_Collate (preloads[][E_PRE_HOOK:17]=@04e79b2c, precount=2, name[32]=@04e79aac !"@yH_LoadMapping@024", idx=14) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:652
-[23:43:33] [debug] #4 00035dc8 in Hooks_DoAllHooks () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:594
-[23:43:33] [debug] #5 000380a0 in public AMX_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:1151
-[23:43:33] [debug] #6 0000ab84 in public Debug_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
-[23:43:33] [debug] #7 00001ba8 in public YVers_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
-[23:43:33] [debug] #8 00001248 in public ScriptInit_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
-[23:43:33] [debug] #9 00000ebc in public OnGameModeInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
-[23:43:34] [Pawn.CMD] PC_RegAlias: Command 'items' is an alias
-[23:43:34] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3 DL by Abyss Morgan
-[23:43:34] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
-[23:43:34] MySQL connection failed. Server is shutting down.
-[23:43:34] Number of vehicle models: 6
-[23:43:34] --- Server Shutting Down.
-[23:43:34] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3 DL by Abyss Morgan
-[23:43:34] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
-[23:43:34] [Gas Station] Number of Saved: 0
-[23:43:34] [Farmer Plant] Number of Saved: 0
-[23:43:34] plugin.mysql: Unloading plugin...
-[23:43:34] plugin.mysql: Plugin unloaded.
-[23:43:34] 
+[08:25:47]    Error: Function not registered: 'CreateDynamicTextDraw'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawFont'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawLetterSize'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawColour'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetShadow'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetOutline'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawBackgroundColour'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetProportional'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawUseBox'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawBoxColour'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawTextSize'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetSelectable'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetPreviewModel'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetPreviewRot'
+[08:25:47]    Error: Function not registered: 'DestroyDynamicTextDraw'
+[08:25:47]    Error: Function not registered: 'CreateDynamicPlayerTextDraw'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawFont'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawLetterSize'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawColour'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawSetShadow'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawSetOutline'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawBGColour'
+[08:25:47]    Error: Function not registered: 'DynPlayerTextSetProportional'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawUseBox'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawBoxColor'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawTextSize'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawAlignment'
+[08:25:47]    Error: Function not registered: 'DestroyDynamicPlayerTextDraw'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawShow'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawHideForPlayer'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawHide'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetPreviewVehCol'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawShowForPlayer'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawSetString'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawSetString'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawSelectable'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawSetPrevMdl'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawSetPrevRot'
+[08:25:47]    Error: Function not registered: 'DynamicPlayerTextDrawPrevVehCol'
+[08:25:47]    Error: Function not registered: 'DynamicTextDrawAlignment'
+[08:25:47]    Error: Function not registered: 'TimeFormat'
+[08:25:47]    Error: Function not registered: 'MapAndreas_FindZ_For2DCoord'
+[08:25:47]  
+[08:25:47]  
+[08:25:47]  
+[08:25:47]  ======================================= 
+[08:25:47]  |                                     | 
+[08:25:47]  |        YSI version 4.00.0001        | 
+[08:25:47]  |        By Alex "Y_Less" Cole        | 
+[08:25:47]  |                                     | 
+[08:25:47]  ======================================= 
+[08:25:47]  
+[08:25:47] [debug] Long callback execution detected (hang or performance issue)
+[08:25:47] [debug] AMX backtrace:
+[08:25:47] [debug] #0 0000b8d8 in AMX_ReadString (addr=-6105364, str[]=@04e79894 !"pc_cmd_findems", len=32) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:997
+[08:25:47] [debug] #1 0000b0a4 in AMX_GetEntry (E_AMX_TABLE:table=0, idx=767, &buffer=@04e79a68 0, pattern[]=@04e79944 "ScriptInit_LoadMapping", bool:exact=true) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:454
+[08:25:47] [debug] #2 00034fa4 in Hooks_GetPreHooks (preloads[][E_PRE_HOOK:17]=@04e79b2c, precount=2, name[64]=@00011f2c "LoadMapping", hooks[]=@04e79a68 "", &count=@04e79a78 0) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:358
+[08:25:47] [debug] #3 00035fb4 in Hooks_Collate (preloads[][E_PRE_HOOK:17]=@04e79b2c, precount=2, name[32]=@04e79aac !"@yH_LoadMapping@024", idx=14) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:646
+[08:25:47] [debug] #4 00035dc8 in Hooks_DoAllHooks () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:594
+[08:25:47] [debug] #5 000380a0 in public AMX_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:1151
+[08:25:47] [debug] #6 0000ab84 in public Debug_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[08:25:47] [debug] #7 00001ba8 in public YVers_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[08:25:47] [debug] #8 00001248 in public ScriptInit_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[08:25:47] [debug] #9 00000ebc in public OnGameModeInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[08:25:48] [Pawn.CMD] PC_RegAlias: Command 'items' is an alias
+[08:25:48] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3 DL by Abyss Morgan
+[08:25:48] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[08:25:48] MySQL connection failed. Server is shutting down.
+[08:25:48] Number of vehicle models: 6
+[08:25:48] --- Server Shutting Down.
+[08:25:48] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3 DL by Abyss Morgan
+[08:25:48] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[08:25:48] [Gas Station] Number of Saved: 0
+[08:25:48] [Farmer Plant] Number of Saved: 0
+[08:25:48] plugin.mysql: Unloading plugin...
+[08:25:48] plugin.mysql: Plugin unloaded.
+[08:25:48] 
 
-[23:43:34]  ===============================
+[08:25:48]  ===============================
 
-[23:43:34]      sscanf plugin unloaded.    
+[08:25:48]      sscanf plugin unloaded.    
 
-[23:43:34]  ===============================
+[08:25:48]  ===============================
 
-[23:43:34] 
+[08:25:48] 
 
 *** Streamer Plugin v2.9.6 by Incognito unloaded ***
 
-[23:43:34] [Pawn.CMD] plugin unloaded
-[23:43:34] 
+[08:25:48] [Pawn.CMD] plugin unloaded
+[08:25:48] 
 
 *** GVar Plugin v1.3 by Incognito unloaded ***
 
-[23:43:34] ========================
-[23:43:34] = Memory access plugin =
-[23:43:34] =       Made by BigETI =
-[23:43:34] = Unloaded!            =
-[23:43:34] ========================
-[23:43:34] 
-[23:43:34]  =================================
-[23:43:34]  |                               |
-[23:43:34]  |    textdraw-streamer v2.0.3   |
-[23:43:34]  |           Unloaded            |
-[23:43:34]  |                               |
-[23:43:34]  |  Coding:                      |
-[23:43:34]  |                               |
-[23:43:34]  |  Burak (Nexor)                |
-[23:43:34]  |                               |
-[23:43:34]  |  Compiled:                    |
-[23:43:34]  |                               |
-[23:43:34]  |  29.09.2023, 16:49:07         |
-[23:43:34]  |                               |
-[23:43:34]  |  Github:                      |
-[23:43:34]  |                               |
-[23:43:34]  |  github.com/nexquery          |
-[23:43:34]  |                               |
-[23:43:34]  |  Discord:                     |
-[23:43:34]  |                               |
-[23:43:34]  |  benburakya - Nexor#4730      |
-[23:43:34]  |                               |
-[23:43:34]  =================================
-[23:43:34] 
+[08:25:48] ========================
+[08:25:48] = Memory access plugin =
+[08:25:48] =       Made by BigETI =
+[08:25:48] = Unloaded!            =
+[08:25:48] ========================
+[08:25:48] 
+[08:25:48]  =================================
+[08:25:48]  |                               |
+[08:25:48]  |    textdraw-streamer v2.0.3   |
+[08:25:48]  |           Unloaded            |
+[08:25:48]  |                               |
+[08:25:48]  |  Coding:                      |
+[08:25:48]  |                               |
+[08:25:48]  |  Burak (Nexor)                |
+[08:25:48]  |                               |
+[08:25:48]  |  Compiled:                    |
+[08:25:48]  |                               |
+[08:25:48]  |  29.09.2023, 16:49:07         |
+[08:25:48]  |                               |
+[08:25:48]  |  Github:                      |
+[08:25:48]  |                               |
+[08:25:48]  |  github.com/nexquery          |
+[08:25:48]  |                               |
+[08:25:48]  |  Discord:                     |
+[08:25:48]  |                               |
+[08:25:48]  |  benburakya - Nexor#4730      |
+[08:25:48]  |                               |
+[08:25:48]  =================================
+[08:25:48] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:33:38] 
+[08:33:38] Server Plugins
+[08:33:38] --------------
+[08:33:38]  Loading plugin: crashdetect
+[08:33:38]   CrashDetect plugin 4.22-1-gcd608b6
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: irc
+[08:33:38]   Failed.
+[08:33:38]  Loading plugin: mysql
+[08:33:38]  >> plugin.mysql: R41-4 successfully loaded.
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: sscanf
+[08:33:38] 
+
+[08:33:38]  ===============================
+
+[08:33:38]       sscanf plugin loaded.     
+
+[08:33:38]          Version:  2.8.3        
+
+[08:33:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:33:38]  ===============================
+
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: streamer
+[08:33:38] 
+
+*** Streamer Plugin v2.9.6 by Incognito loaded ***
+
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: CTime
+[08:33:38]   Failed.
+[08:33:38]  Loading plugin: pawncmd
+[08:33:38] [Pawn.CMD] plugin v3.4.0 loading...
+[08:33:38] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: gvar
+[08:33:38] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: pawn-memory
+[08:33:38] ========================
+[08:33:38] = Memory access plugin =
+[08:33:38] =       Made by BigETI =
+[08:33:38] = Loaded!              =
+[08:33:38] ========================
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: nativechecker
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: samp_bcrypt
+[08:33:38] [SampBcrypt] [info]: Version: 0.3.2
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: chrono
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: textdraw-streamer
+[08:33:38] 
+[08:33:38]  =================================
+[08:33:38]  |                               |
+[08:33:38]  |    textdraw-streamer v2.0.3   |
+[08:33:38]  |            Loaded             |
+[08:33:38]  |                               |
+[08:33:38]  |  Coding:                      |
+[08:33:38]  |                               |
+[08:33:38]  |  Burak (Nexor)                |
+[08:33:38]  |                               |
+[08:33:38]  |  Compiled:                    |
+[08:33:38]  |                               |
+[08:33:38]  |  29.09.2023, 16:49:07         |
+[08:33:38]  |                               |
+[08:33:38]  |  Github:                      |
+[08:33:38]  |                               |
+[08:33:38]  |  github.com/nexquery          |
+[08:33:38]  |                               |
+[08:33:38]  |  Discord:                     |
+[08:33:38]  |                               |
+[08:33:38]  |  benburakya - Nexor#4730      |
+[08:33:38]  |                               |
+[08:33:38]  =================================
+[08:33:38] 
+[08:33:38]   Loaded.
+[08:33:38]  Loading plugin: mapandreas
+[08:33:38]   Loaded.
+[08:33:38]  Loaded 12 plugins.
+
+[08:33:38] 
+[08:33:38] Ban list
+[08:33:38] --------
+[08:33:38]  Loaded: samp.ban
+[08:33:38] 
+[08:33:38] 
+[08:33:38] Filterscripts
+[08:33:38] ---------------
+[08:33:38]   Loading filterscript 'object.amx'...
+[08:33:38] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x296). The script might need to be recompiled with the latest include file.
+[08:33:38] [debug] Long callback execution detected (hang or performance issue)
+[08:33:38] [debug] AMX backtrace:
+[08:33:38] [debug] #0 000674d0 in CreateIntLarge5 () at C:\Users\ASUS AMD\Desktop\North Country Roleplay\filterscripts\./map/large/int_large5.pwn:211
+[08:33:38] [debug] #1 00081fb8 in public OnFilterScriptInit () at C:\Users\ASUS AMD\Desktop\North Country Roleplay\filterscripts\object.pwn:247
+[08:33:38]   Loading filterscript 'Buttons.amx'...
+[08:33:38]   Loaded 2 filterscripts.
+
+[08:33:38]    Error: Function not registered: 'CreateDynamicTextDraw'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawFont'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawLetterSize'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawColour'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetShadow'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetOutline'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawBackgroundColour'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetProportional'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawUseBox'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawBoxColour'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawTextSize'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetSelectable'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetPreviewModel'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetPreviewRot'
+[08:33:38]    Error: Function not registered: 'DestroyDynamicTextDraw'
+[08:33:38]    Error: Function not registered: 'CreateDynamicPlayerTextDraw'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawFont'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawLetterSize'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawColour'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawSetShadow'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawSetOutline'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawBGColour'
+[08:33:38]    Error: Function not registered: 'DynPlayerTextSetProportional'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawUseBox'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawBoxColor'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawTextSize'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawAlignment'
+[08:33:38]    Error: Function not registered: 'DestroyDynamicPlayerTextDraw'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawShow'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawHideForPlayer'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawHide'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetPreviewVehCol'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawShowForPlayer'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawSetString'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawSetString'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawSelectable'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawSetPrevMdl'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawSetPrevRot'
+[08:33:38]    Error: Function not registered: 'DynamicPlayerTextDrawPrevVehCol'
+[08:33:38]    Error: Function not registered: 'DynamicTextDrawAlignment'
+[08:33:38]    Error: Function not registered: 'TimeFormat'
+[08:33:38]    Error: Function not registered: 'MapAndreas_FindZ_For2DCoord'
+[08:33:38]  
+[08:33:38]  
+[08:33:38]  
+[08:33:38]  ======================================= 
+[08:33:38]  |                                     | 
+[08:33:38]  |        YSI version 4.00.0001        | 
+[08:33:38]  |        By Alex "Y_Less" Cole        | 
+[08:33:38]  |                                     | 
+[08:33:38]  ======================================= 
+[08:33:38]  
+[08:33:38] [debug] Long callback execution detected (hang or performance issue)
+[08:33:38] [debug] AMX backtrace:
+[08:33:38] [debug] #0 0000b8d8 in AMX_ReadString (addr=-6116195, str[]=@04e79894 !"DR_Oree", len=32) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:997
+[08:33:38] [debug] #1 0000b0a4 in AMX_GetEntry (E_AMX_TABLE:table=0, idx=134, &buffer=@04e79a68 0, pattern[]=@04e79944 "HookChain_LoadMapping", bool:exact=true) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:454
+[08:33:38] [debug] #2 00034fa4 in Hooks_GetPreHooks (preloads[][E_PRE_HOOK:17]=@04e79b2c, precount=2, name[64]=@00011f2c "LoadMapping", hooks[]=@04e79a68 "", &count=@04e79a78 0) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:358
+[08:33:38] [debug] #3 00035fb4 in Hooks_Collate (preloads[][E_PRE_HOOK:17]=@04e79b2c, precount=2, name[32]=@04e79aac !"@yH_LoadMapping@024", idx=14) at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:646
+[08:33:38] [debug] #4 00035dc8 in Hooks_DoAllHooks () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:594
+[08:33:38] [debug] #5 000380a0 in public AMX_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Coding\y_hooks/impl.inc:1151
+[08:33:38] [debug] #6 0000ab84 in public Debug_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Storage\y_amx.inc:233
+[08:33:38] [debug] #7 00001ba8 in public YVers_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Core\y_debug.inc:703
+[08:33:38] [debug] #8 00001248 in public ScriptInit_OnScriptInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\y_version.inc:248
+[08:33:38] [debug] #9 00000ebc in public OnGameModeInit () at C:\Users\Reyy\Documents\Workdir\Server v2\gm\pawno\include\YSI_Data\..\YSI_Internal\..\YSI_Core\..\YSI_Internal\..\YSI_Server\y_scriptinit.inc:236
+[08:33:39] [Pawn.CMD] PC_RegAlias: Command 'items' is an alias
+[08:33:39] [ADM] Info: Load 3DTryg v4.8.5 for SA:MP 0.3 DL by Abyss Morgan
+[08:33:39] [ADM] Info: Load EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[08:33:39] MySQL connection failed. Server is shutting down.
+[08:33:39] Number of vehicle models: 6
+[08:33:39] --- Server Shutting Down.
+[08:33:39] [ADM] Info: Unload 3DTryg v4.8.5 for SA:MP 0.3 DL by Abyss Morgan
+[08:33:39] [ADM] Info: Unload EVF v3.3.3 for SA:MP 0.3 DL by Abyss Morgan
+[08:33:39] [Gas Station] Number of Saved: 0
+[08:33:39] [Farmer Plant] Number of Saved: 0
+[08:33:39] plugin.mysql: Unloading plugin...
+[08:33:39] plugin.mysql: Plugin unloaded.
+[08:33:39] 
+
+[08:33:39]  ===============================
+
+[08:33:39]      sscanf plugin unloaded.    
+
+[08:33:39]  ===============================
+
+[08:33:39] 
+
+*** Streamer Plugin v2.9.6 by Incognito unloaded ***
+
+[08:33:39] [Pawn.CMD] plugin unloaded
+[08:33:39] 
+
+*** GVar Plugin v1.3 by Incognito unloaded ***
+
+[08:33:39] ========================
+[08:33:39] = Memory access plugin =
+[08:33:39] =       Made by BigETI =
+[08:33:39] = Unloaded!            =
+[08:33:39] ========================
+[08:33:39] 
+[08:33:39]  =================================
+[08:33:39]  |                               |
+[08:33:39]  |    textdraw-streamer v2.0.3   |
+[08:33:39]  |           Unloaded            |
+[08:33:39]  |                               |
+[08:33:39]  |  Coding:                      |
+[08:33:39]  |                               |
+[08:33:39]  |  Burak (Nexor)                |
+[08:33:39]  |                               |
+[08:33:39]  |  Compiled:                    |
+[08:33:39]  |                               |
+[08:33:39]  |  29.09.2023, 16:49:07         |
+[08:33:39]  |                               |
+[08:33:39]  |  Github:                      |
+[08:33:39]  |                               |
+[08:33:39]  |  github.com/nexquery          |
+[08:33:39]  |                               |
+[08:33:39]  |  Discord:                     |
+[08:33:39]  |                               |
+[08:33:39]  |  benburakya - Nexor#4730      |
+[08:33:39]  |                               |
+[08:33:39]  =================================
+[08:33:39] 
